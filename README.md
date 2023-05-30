@@ -1,5 +1,5 @@
 # 💫 Welcome!
-# Hey there! 👋<br>I'm a Full Stack developer with 3+ years of experience that always loved the world of Computer Science! I consider myself a flexible person who always looks for versatility in my work environment. <br><br>Olá! 👋<br>Sou um desenvolvedor Full Stack com mais de 3 anos de experiencia, sempre apaixonado pelo mundo da computação, flexível e que preza pela versatilidade em ambiente de trabalho, buscando sempre me adaptar aos desafios propostos e adquirir o máximo de conhecimento.
+# Hey there! 👋<br>I'm a Full Stack developer with 3+ years of experience that always loved the world of Computer Science! I consider myself a flexible person who always looks for versatility in my work environment.
 
 
 ## 🌐 Linkedin:
