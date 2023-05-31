@@ -1,5 +1,6 @@
 # 💫 Welcome!
  <h4>Hey there! 👋<br>I'm a Full Stack developer with 3+ years of experience that always loved the world of Computer Science! I consider myself a flexible person who always looks for versatility in my work environment.</h4>
+ <h4> Check my portfolio <a target="_blank" href="https://portfolio-gustavo-brito.up.railway.app/#portfolio">here</a>
 
 # 📊 GitHub Stats:
 <div align="center">
