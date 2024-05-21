@@ -18,8 +18,9 @@
   <img align="center" alt="Gustavo-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Gustavo-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
+<br>
+<br>
 
-![snake gif](https://github.com/gustavobkrm/gustavobkrm/blob/output/github-contribution-grid-snake.gif)
 
 ### 🌐 Contact-me!
 <div> 
