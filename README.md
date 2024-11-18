@@ -1,11 +1,6 @@
 # 💫 Welcome!
  <h4>Hey there! 👋<br>I'm a Full Stack developer with 4+ years specialized in .NET stack.</h4>
 
-# 📊 GitHub Stats:
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobkrm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
